@@ -30,6 +30,7 @@
 ## Book
 
 + [Effective Java](https://www.oreilly.com/library/view/effective-java-3rd/9780134686097/)
++[Head First Android Development](https://www.amazon.in/Head-First-Android-Development-Griffiths/dp/1449362184)
 + [Android Programming by Big Nerd Ranch](https://www.bignerdranch.com/books/android-programming/)
 + [Professional Android by Reto Meier, Ian Lake](https://www.wiley.com/en-us/Professional+Android%2C+4th+Edition-p-9781118949528)
 + [Kotlin for Android Developers](https://leanpub.com/kotlin-for-android-developers)
